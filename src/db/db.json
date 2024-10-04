@@ -110,5 +110,26 @@
     "phone": "409.254.6321",
     "email": "Salvatore.Klocko@yahoo.com",
     "job": "Central Integration Developer"
+  },
+  {
+    "id": "c733aadb-a277-44c5-b30a-5908011fcc0d",
+    "name": "Gwen Balistreri II",
+    "phone": "918-535-7868",
+    "email": "Ashleigh_Price23@yahoo.com",
+    "job": "Investor Web Analyst"
+  },
+  {
+    "id": "7a4c57ae-e78c-4992-b045-ea8cb76a4223",
+    "name": "Randolph Rolfson",
+    "phone": "652.536.9968 x5903",
+    "email": "Joelle.Collins@yahoo.com",
+    "job": "National Security Developer"
+  },
+  {
+    "id": "1883c8ae-70cc-47b6-9855-9a422084ebf6",
+    "name": "Phil Pfannerstill",
+    "phone": "1-364-509-1071 x6278",
+    "email": "Arlene.Swift68@hotmail.com",
+    "job": "Direct Web Producer"
   }
 ]
